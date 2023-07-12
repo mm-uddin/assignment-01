@@ -1,0 +1,48 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.banner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:rgba(229, 84, 115, 0.10);
+  gap: 100px;
+
+  
+}
+
+.btn-primary{
+border-radius: 8px;
+background: #E55473;
+width: 177px;
+height: 64px;
+font-size: 20px;
+color: #FFF;
+}
+
+.banner-title{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+
+.banner-paragraph{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+
+.banner-column-pic{
+width: 635px;
+height: 800px;
+margin-top: 50px;
+margin-right: 240px;
+}
+
+.banner-column-text{
+margin-left: 200px;
+margin-top: 100px;
+}
